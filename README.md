@@ -21,4 +21,5 @@ The dashboard opens with KPI cards summarizing overall headcount, attrition coun
 4. Highlight
 A key highlight of this dashboard is its ability to instantly filter and cross-analyze attrition against multiple factors — like overtime, job satisfaction, and salary — using interactive slicers, all within a single-page, easy-to-navigate layout. This makes it simple to move from a high-level attrition rate to root-cause exploration in just a few clicks.
 5. Screenshot :
-6. 
+ https://github.com/khushisinghggn2004-eng/HR-Analytics-dashboard-/blob/main/Screenshot%202026-09-12%20213615.png
+ 
