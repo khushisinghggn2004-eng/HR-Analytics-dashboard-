@@ -9,7 +9,7 @@
 .🗂️ Data Model: Single flat table structure (no relationships / no star schema)
 .📁 File Format: .pbit (Power BI Template)
 4.  FEATURES :
-1. Business Problem
+1. Business Problem :
 Employee attrition is a costly and often unpredictable challenge for organizations, making it difficult for HR teams to identify which employees or departments are most at risk of leaving. Without a consolidated view of workforce data, decision-makers struggle to spot patterns behind turnover before it happens.
 
 2. Goal
