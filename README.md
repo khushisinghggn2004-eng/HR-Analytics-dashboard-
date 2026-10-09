@@ -12,7 +12,7 @@
 1. Business Problem :
 Employee attrition is a costly and often unpredictable challenge for organizations, making it difficult for HR teams to identify which employees or departments are most at risk of leaving. Without a consolidated view of workforce data, decision-makers struggle to spot patterns behind turnover before it happens.
 
-2. Goal
+2. Goal:
  The goal of this dashboard is to consolidate employee data — demographics, satisfaction, compensation, and tenure — into a single interactive view that helps HR identify attrition drivers. It aims to support faster, data-backed retention decisions instead of relying on guesswork or after-the-fact exit interviews.
 
 3. Walkthrough of Key Visuals
