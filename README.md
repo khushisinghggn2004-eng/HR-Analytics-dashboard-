@@ -1,6 +1,8 @@
 # HR-Analytics-dashboard  - employee attrition , demographics and satisfacion insighs .
 ##1. Project Title - HR Attrition and performance dashboard .
+
 ##2. Short Description - A Power BI dashboard that visualizes employee attrition, satisfaction, and compensation data to help HR teams spot at-risk employee segments and take action to improve retention.
+
 ##3. Tech stack - the dashboard was built using the following tools and insights : 
 _⚡ Power BI Desktop – used to design and build the interactive dashboard/report
 _🔄 Power Query (M Language) – used for data extraction, cleaning, and transformation (ETL)
@@ -8,6 +10,7 @@ _📐 DAX (Data Analysis Expressions) – used to create calculated measures lik
 _📄 Data Source: CSV file — imported and processed via Power Query
 _🗂️ Data Model: Single flat table structure (no relationships / no star schema)
 _📁 File Format: .pbit (Power BI Template)
+
 ##4.  FEATURES :
 _1. Business Problem :
 Employee attrition is a costly and often unpredictable challenge for organizations, making it difficult for HR teams to identify which employees or departments are most at risk of leaving. Without a consolidated view of workforce data, decision-makers struggle to spot patterns behind turnover before it happens.
@@ -20,6 +23,7 @@ The dashboard opens with KPI cards summarizing overall headcount, attrition coun
 
 _4. Highlight
 A key highlight of this dashboard is its ability to instantly filter and cross-analyze attrition against multiple factors — like overtime, job satisfaction, and salary — using interactive slicers, all within a single-page, easy-to-navigate layout. This makes it simple to move from a high-level attrition rate to root-cause exploration in just a few clicks.
+
 ##5. Screenshot :
  https://github.com/khushisinghggn2004-eng/HR-Analytics-dashboard-/blob/main/Screenshot%202026-09-12%20213615.png
  
