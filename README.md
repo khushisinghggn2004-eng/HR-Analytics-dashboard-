@@ -4,9 +4,9 @@
 ##2. Short Description - A Power BI dashboard that visualizes employee attrition, satisfaction, and compensation data to help HR teams spot at-risk employee segments and take action to improve retention.
 
 ##3. Tech stack - the dashboard was built using the following tools and insights : 
-_⚡ Power BI Desktop – used to design and build the interactive dashboard/report
-_🔄 Power Query (M Language) – used for data extraction, cleaning, and transformation (ETL)
-_📐 DAX (Data Analysis Expressions) – used to create calculated measures like Attrition Count, Attrition %, and Average Income of Attrited Employees
+- . ⚡ Power BI Desktop – used to design and build the interactive dashboard/report
+- .🔄 Power Query (M Language) – used for data extraction, cleaning, and transformation (ETL)
+- .📐 DAX (Data Analysis Expressions) – used to create calculated measures like Attrition Count, Attrition %, and Average Income of Attrited Employees
 _📄 Data Source: CSV file — imported and processed via Power Query
 _🗂️ Data Model: Single flat table structure (no relationships / no star schema)
 _📁 File Format: .pbit (Power BI Template)
